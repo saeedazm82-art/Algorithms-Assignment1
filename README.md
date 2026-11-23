@@ -10,7 +10,7 @@
 - `testdata/` — Baseline input/output files (`sample`, `empty`, `ties`).
 
 ## Build & Run Instructions (Tested with `g++ 13.2.0`, C++17)
-
+g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
 ### Main Program
 ```bash
 g++ -std=c++17 -Wall -Wextra main.cpp Algorithms.cpp -o courses
